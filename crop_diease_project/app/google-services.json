@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "275976721401",
+    "firebase_url": "https://cropdeasesprediction-default-rtdb.firebaseio.com",
+    "project_id": "cropdeasesprediction",
+    "storage_bucket": "cropdeasesprediction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275976721401:android:38071bad408f3734006328",
+        "android_client_info": {
+          "package_name": "com.example.crop_diease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXN32js45v27b3ERkfpgOLvB07eHF5g4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
